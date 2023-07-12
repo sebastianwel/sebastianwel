@@ -1,6 +1,8 @@
 # 👨‍💻 Sebastian Welzer 
 ## I'm glad you're here! 👋
-Hey all, I am Sebastian, a business-minded web-dev from [Hamburg](https://de.wikipedia.org/wiki/Hamburg), Germany. 
+Hey all, I am Sebastian!
+A business-minded web developer crafting captivating experiences. Continuous learning, innovation, and diverse interests drive my well-rounded approach. 
+I create smart solutions, ready to transform ideas into cutting-edge technologies.
 
 ---
 ## About me 🧐

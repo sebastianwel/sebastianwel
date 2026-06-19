@@ -1,4 +1,4 @@
-# 👨‍💻 Sebastian Welzer 
+# 👨‍💻 Sebastian 
 ## I'm glad you're here! 👋
 Hey all, I am Sebastian!
 A business-minded web developer crafting captivating experiences. Continuous learning, innovation, and diverse interests drive my well-rounded approach. 
